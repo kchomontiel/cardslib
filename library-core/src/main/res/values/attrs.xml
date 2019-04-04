@@ -43,7 +43,7 @@
     <!-- Refer to https://gist.github.com/chrisbanes/9091754 for original code -->
     <declare-styleable name="ForegroundLinearLayout">
         <attr name="android:foreground" />
-        <attr name="foregroundInsidePadding" />
+        <attr name="foregroundInsidePadding" format="boolean" />
         <attr name="android:foregroundGravity" />
     </declare-styleable>
 
