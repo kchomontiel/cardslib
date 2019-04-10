@@ -1,6 +1,7 @@
 # Card Library
 Travis master: [![Build Status](https://travis-ci.org/gabrielemariotti/cardslib.svg?branch=master)](https://travis-ci.org/gabrielemariotti/cardslib)
 Travis dev: [![Build Status](https://travis-ci.org/gabrielemariotti/cardslib.svg?branch=dev)](https://travis-ci.org/gabrielemariotti/cardslib)
+kchomontiel :[![](https://jitpack.io/v/kchomontiel/cardslib.svg)](https://jitpack.io/#kchomontiel/cardslib)
 
 
 **Card Library** provides an easy way to display a UI Card using the **Official Google CardView** in your Android app.
